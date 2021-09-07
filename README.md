@@ -4,7 +4,7 @@
 
 Submitted by: **Gustavo Ramos**
 
-Time spent: **48** hours spent in total
+Time spent: **72** hours spent in total
 
 ## User Stories
 
@@ -26,15 +26,19 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-![Pre_work_Ramos_CodePath](https://user-images.githubusercontent.com/88735919/132276221-a85c1a1f-c7ab-4522-b83e-1437babb88ff.GIF)
+
+
+https://user-images.githubusercontent.com/88735919/132340644-60d0d575-fc40-445e-af5e-27510db17caa.mp4
+
+
 
 ## Notes
 
-Connection between xcode and git 
+Linking between xcode and github was difficult but successful 
 
 ## License
 
-    Copyright [2021] [Gustavo Ramos]
+    Copyright [2021] [Gustavo G. Ramos]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
